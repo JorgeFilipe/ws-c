@@ -98,7 +98,7 @@ int main()
 
             /*
             ESTADOS DE ONDE O CPF PERTENCE
-            CPF: abc.dfc.xyz-cb verifica-se o numero na posição (z)
+            CPF: abc.def.ghi-jk verifica-se o numero na posição (i)
             Exemplo: Nº:  003.939.708-41 = Código 8, corresponde ao Estado de São Paulo.
             Código 0:  Rio Grande do Sul
             Código 1:  Distrito Federal – Goiás – Mato Grosso – Mato Grosso do Sul – Tocantins
